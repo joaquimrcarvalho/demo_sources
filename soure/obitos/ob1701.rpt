@@ -1,0 +1,79 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-19
+
+Processing data file ob1701.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 11
+Obs: 
+** Processing source fonte$obitos-17001
+
+WARNING: ob1701.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1701 Id: obitos-17001.
+Near lines: 3 
+Near lines: 4       obito$o17001-2617/1/1/1700
+
+6: obito$o17001-2617
+17: obito$o17001-2618
+28: obito$o17001-2619
+41: obito$o17001-2620
+52: obito$o17001-2621
+63: obito$o17001-2622
+73: obito$o17001-2623
+85: obito$o17001-2624
+97: obito$o17001-2625
+108: obito$o17001-2626
+119: obito$o17001-2627
+130: obito$o17001-2628
+140: obito$o17001-2629
+150: obito$o17001-2630
+163: obito$o17001-2631
+174: obito$o17001-2632
+184: obito$o17001-2633
+195: obito$o17001-2634
+206: obito$o17001-2635
+219: obito$o17001-2636
+230: obito$o17001-2637
+239: obito$o17001-2638
+248: obito$o17001-2639
+257: obito$o17001-2640
+270: obito$o17001-2641
+281: obito$o17001-2642
+290: obito$o17001-2643
+301: obito$o17001-2644
+314: obito$o17001-2645
+321: obito$o17001-2646
+334: obito$o17001-2647
+343: obito$o17001-2648
+356: obito$o17001-2649
+370: obito$o17001-2650
+381: obito$o17001-2651
+392: obito$o17001-2652
+403: obito$o17001-2653
+416: obito$o17001-2654
+427: obito$o17001-2655
+436: obito$o17001-2656
+445: obito$o17001-2657
+457: obito$o17001-2658
+463: obito$o17001-2659
+476: obito$o17001-2660
+492: obito$o17001-2661
+503: obito$o17001-2662
+518: obito$o17001-2663
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1701.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1701.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1701.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1701.ids
+0  errors. 
+1  warnings.
+Translation finished.

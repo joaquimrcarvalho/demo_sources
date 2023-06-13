@@ -1,0 +1,60 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2053/master) (2022-01-20 14:25:22, MHK: 13/03/2022 09:16 )
+29-3-2022 10-11
+
+Processing data file c1698.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 7
+Obs: 
+** Processing source fonte$casamentos 1698
+
+WARNING: c1698.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1698 Id: casamentos 1698.
+Near lines: 3 
+Near lines: 4       cas$c1698-95/5/1/1698/igreja matriz/luis alvares pinto
+
+6: cas$c1698-95
+36: cas$c1698-96
+70: cas$c1698-97
+99: cas$c1698-98
+129: cas$c1698-99
+166: cas$c1698-100
+194: cas$c1698-101
+225: cas$c1698-102
+253: cas$c1698-103
+277: cas$c1698-104
+301: cas$c1698-105
+332: cas$c1698-106
+356: cas$c1698-107
+381: cas$c1698-108
+405: cas$c1698-109
+433: cas$c1698-110
+468: cas$c1698-111
+492: cas$c1698-112
+526: cas$c1698-113
+557: cas$c1698-114
+579: cas$c1698-115
+612: cas$c1698-116
+642: cas$c1698-117
+672: cas$c1698-118
+689: cas$c1698-119
+716: cas$c1698-120
+741: cas$c1698-121
+770: cas$c1698-120a
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1698.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1698.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1698.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1698.ids
+0  errors. 
+1  warnings.
+Translation finished.

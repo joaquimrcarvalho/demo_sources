@@ -1,0 +1,60 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-17
+
+Processing data file c1688.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 9
+Obs: 
+** Processing source fonte$casamentos 1688
+
+WARNING: c1688.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1688 Id: casamentos 1688.
+Near lines: 3 
+Near lines: 4       cas$c1688.1/2/2/1688/?/manuel gaspar, da redinha
+
+6: cas$c1688.1
+26: cas$c1688.2
+54: cas$c1688.3
+81: cas$c1688.4
+108: cas$c1688.5
+139: cas$c1688.6
+171: cas$c1688.7
+202: cas$c1688.8
+240: cas$c1688.8b
+266: cas$c1688.9
+293: cas$c1688.10
+321: cas$c1688.11
+346: cas$c1688.12
+380: cas$c1688.13
+411: cas$c1688.14
+436: cas$c1688.15
+456: cas$c1688.16
+484: cas$c1688.17
+513: cas$c1688.18
+544: cas$c1688.19
+574: cas$c1688.20
+602: cas$c1688.21
+630: cas$c1688.22
+663: cas$c1688.23
+694: cas$c1688.24
+728: cas$c1688.25
+754: cas$c1688.26
+789: cas$c1688.27
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1688.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1688.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1688.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1688.ids
+0  errors. 
+1  warnings.
+Translation finished.

@@ -1,0 +1,85 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-20
+
+Processing data file ob1708.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 13
+Obs: 
+** Processing source fonte$obitos-1708
+
+WARNING: ob1708.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1708 Id: obitos-1708.
+Near lines: 3 
+Near lines: 4       obito$o1708-3113/4/1/1708
+
+6: obito$o1708-3113
+19: obito$o1708-3114
+33: obito$o1708-3115
+44: obito$o1708-3116
+56: obito$o1708-3117
+68: obito$o1708-3118
+80: obito$o1708-3119
+94: obito$o1708-3120
+105: obito$o1708-3121
+119: obito$o1708-3122
+129: obito$o1708-3123
+142: obito$o1708-3124
+157: obito$o1708-3125
+172: obito$o1708-3126
+185: obito$o1708-3127
+200: obito$o1708-3128
+213: obito$o1708-3129
+228: obito$o1708-3130
+243: obito$o1708-3131
+256: obito$o1708-3132
+267: obito$o1708-3133
+282: obito$o1708-3134
+298: obito$o1708-3135
+314: obito$o1708-3136
+326: obito$o1708-3137
+342: obito$o1708-3138
+355: obito$o1708-3139
+368: obito$o1708-3140
+388: obito$o1708-3141
+397: obito$o1708-3142
+409: obito$o1708-3143
+424: obito$o1708-3144
+439: obito$o1708-3145
+452: obito$o1708-3146
+465: obito$o1708-3147
+479: obito$o1708-3148
+494: obito$o1708-3149
+508: obito$o1708-3150
+519: obito$o1708-3151
+533: obito$o1708-3152
+546: obito$o1708-3153
+560: obito$o1708-3154
+571: obito$o1708-3155
+586: obito$o1708-3156
+597: obito$o1708-3157
+610: obito$o1708-3158
+623: obito$o1708-3159
+634: obito$o1708-3160
+649: obito$o1708-3161
+663: obito$o1708-3162
+678: obito$o1708-3163
+693: obito$o1708-3164
+707: obito$o1708-3165
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1708.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1708.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1708.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1708.ids
+0  errors. 
+1  warnings.
+Translation finished.

@@ -1,0 +1,48 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-17
+
+Processing data file c1690.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 10
+Obs: 
+** Processing source fonte$casamentos 1690
+
+WARNING: c1690.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1690 Id: casamentos 1690.
+Near lines: 3 
+Near lines: 4       cas$c1690.1/23/1/1690/?/manuel cordeiro
+
+6: cas$c1690.1
+40: cas$c1690.2
+71: cas$c1690.3
+107: cas$c1690.4
+134: cas$c1690.5
+165: cas$c1690.6
+187: cas$c1690.7
+220: cas$c1690.8
+253: cas$c1690.9
+280: cas$c1690.10
+303: cas$c1690.11
+326: cas$c1690.12
+345: cas$c1690.13
+368: cas$c1690.14
+391: cas$c1690.15
+413: cas$c1690.16
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1690.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1690.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1690.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1690.ids
+0  errors. 
+1  warnings.
+Translation finished.

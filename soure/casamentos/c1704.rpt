@@ -1,0 +1,53 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2053/master) (2022-01-20 14:25:22, MHK: 13/03/2022 09:16 )
+29-3-2022 10-11
+
+Processing data file c1704.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 8
+Obs: 
+** Processing source fonte$casamentos 1704
+
+WARNING: c1704.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1704 Id: casamentos 1704.
+Near lines: 3 
+Near lines: 4       cas$c1704-262/6/1/1704/igreja da misericordia/luis ribeiro/obs=e assistiram muitos irmaos das misericordia
+
+6: cas$c1704-262
+34: cas$c1704-263
+64: cas$c1704-264
+97: cas$c1704-265
+121: cas$c1704-266
+158: cas$c1704-267
+183: cas$c1704-268
+212: cas$c1704-269
+246: cas$c1704-270
+280: cas$c1704-271
+310: cas$c1704-272
+340: cas$c1704-273
+365: cas$c1704-274
+399: cas$c1704-275
+426: cas$c1704-276
+455: cas$c1704-277
+482: cas$c1704-278
+509: cas$c1704-279
+532: cas$c1704-280
+556: cas$c1704-281
+581: cas$c1704-282
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1704.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1704.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1704.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1704.ids
+0  errors. 
+1  warnings.
+Translation finished.

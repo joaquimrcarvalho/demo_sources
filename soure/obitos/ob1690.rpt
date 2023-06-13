@@ -1,0 +1,65 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-19
+
+Processing data file ob1690.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 12
+Obs: 
+** Processing source fonte$obitos 1690
+
+WARNING: ob1690.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1690 Id: obitos 1690.
+Near lines: 3 
+Near lines: 4       obito$o1690-4183/7/1/1690
+
+6: obito$o1690-4183
+18: obito$o1690-4184
+30: obito$o1690-4185
+43: obito$o1690-4186
+54: obito$o1690-4187
+65: obito$o1690-4188
+79: obito$o1690-4189
+87: obito$o1690-4190
+98: obito$o1690-4191
+109: obito$o1690-4192
+120: obito$o1690-4193
+129: obito$o1690-4194
+140: obito$o1690-4195
+152: obito$o1690-4196
+166: obito$o1690-4197
+176: obito$o1690-4198
+187: obito$o1690-4199
+195: obito$o1690-4200
+205: obito$o1690-4201
+215: obito$o1690-4202
+224: obito$o1690-4203
+235: obito$o1690-4204
+242: obito$o1690-4205
+251: obito$o1690-4206
+260: obito$o1690-4207
+269: obito$o1690-4208
+280: obito$o1690-4209
+289: obito$o1690-4210
+305: obito$o1690-4211
+315: obito$o1690-4212
+326: obito$o1690-4213
+336: obito$o1690-4214
+347: obito$o1690-4215
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1690.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1690.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1690.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1690.ids
+0  errors. 
+1  warnings.
+Translation finished.

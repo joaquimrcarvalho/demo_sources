@@ -1,0 +1,81 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2053/master) (2022-01-20 14:25:22, MHK: 13/03/2022 09:16 )
+29-3-2022 10-11
+
+Processing data file c1697.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 9
+Obs: 
+** Processing source fonte$casamentos 1697
+
+WARNING: c1697.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1697 Id: casamentos 1697.
+Near lines: 3 
+Near lines: 4       cas$c1697-47/14/1/1697/igreja matriz/luis alvares pinto
+
+6: cas$c1697-47
+37: cas$c1697-48
+68: cas$c1697-49
+96: cas$c1697-50
+127: cas$c1697-51
+158: cas$c1697-52
+182: cas$c1697-53
+211: cas$c1697-54
+240: cas$c1697-55
+263: cas$c1697-56
+291: cas$c1697-57
+322: cas$c1697-58
+352: cas$c1697-59
+378: cas$c1697-60
+404: cas$c1697-61
+434: cas$c1697-62
+464: cas$c1697-63
+496: cas$c1697-64
+522: cas$c1697-65
+551: cas$c1697-66
+579: cas$c1697-67
+612: cas$c1697-68
+641: cas$c1697-69
+675: cas$c1697-70
+704: cas$c1697-71
+737: cas$c1697-72
+761: cas$c1697-73
+792: cas$c1697-74
+825: cas$c1697-75
+863: cas$c1697-76
+891: cas$c1697-77
+923: cas$c1697-78
+956: cas$c1697-79
+986: cas$c1697-80
+1019: cas$c1697-81
+1046: cas$c1697-82
+1072: cas$c1697-83
+1105: cas$c1697-43a
+1128: cas$c1697-84
+1160: cas$c1697-85
+1189: cas$c1697-86
+1223: cas$c1697-87
+1263: cas$c1697-88
+1289: cas$c1697-89
+1320: cas$c1697-90
+1347: cas$c1697-91
+1380: cas$c1697-92
+1408: cas$c1697-93
+1440: cas$c1697-94
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1697.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1697.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1697.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1697.ids
+0  errors. 
+1  warnings.
+Translation finished.

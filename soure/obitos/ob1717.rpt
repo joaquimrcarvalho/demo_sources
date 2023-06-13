@@ -1,0 +1,103 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-20
+
+Processing data file ob1717.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 14
+Obs: 
+** Processing source fonte$obitos-1717
+
+WARNING: ob1717.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1717 Id: obitos-1717.
+Near lines: 3 
+Near lines: 4       obito$o1717-3864/4/1/1717
+
+6: obito$o1717-3864
+16: obito$o1717-3865
+26: obito$o1717-3866
+38: obito$o1717-3867
+50: obito$o1717-3868
+63: obito$o1717-3869
+75: obito$o1717-3870
+87: obito$o1717-3871
+101: obito$o1717-3872
+114: obito$o1717-3873
+127: obito$o1717-3874
+143: obito$o1717-3875
+156: obito$o1717-3876
+174: obito$o1717-3877
+184: obito$o1717-3878
+199: obito$o1717-3879
+213: obito$o1717-3880
+224: obito$o1717-3881
+239: obito$o1717-3882
+253: obito$o1717-3883
+263: obito$o1717-3884
+272: obito$o1717-3885
+287: obito$o1717-3886
+298: obito$o1717-3887
+313: obito$o1717-3888
+323: obito$o1717-3889
+338: obito$o1717-3890
+351: obito$o1717-3891
+366: obito$o1717-3892
+377: obito$o1717-3893
+388: obito$o1717-3894
+404: obito$o1717-3895
+415: obito$o1717-3896
+424: obito$o1717-3897
+434: obito$o1717-3898
+444: obito$o1717-3899
+457: obito$o1717-3900
+475: obito$o1717-3901
+485: obito$o1717-3902
+499: obito$o1717-3903
+513: obito$o1717-3904
+528: obito$o1717-3905
+545: obito$o1717-3906
+559: obito$o1717-3907
+573: obito$o1717-3908
+588: obito$o1717-3909
+602: obito$o1717-3910
+615: obito$o1717-3911
+626: obito$o1717-3912
+639: obito$o1717-3913
+651: obito$o1717-3914
+666: obito$o1717-3915
+679: obito$o1717-3916
+693: obito$o1717-3917
+715: obito$o1717-3918
+727: obito$o1717-3919
+741: obito$o1717-3920
+755: obito$o1717-3921
+765: obito$o1717-3922
+775: obito$o1717-3923
+792: obito$o1717-3924
+806: obito$o1717-3925
+817: obito$o1717-3926
+832: obito$o1717-3927
+842: obito$o1717-3928
+859: obito$o1717-3929
+876: obito$o1717-3930
+891: obito$o1717-3931
+901: obito$o1717-3932
+914: obito$o1717-3933
+929: obito$o1717-3934
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1717.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1717.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1717.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1717.ids
+0  errors. 
+1  warnings.
+Translation finished.

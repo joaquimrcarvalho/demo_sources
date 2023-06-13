@@ -1,0 +1,42 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-18
+
+Processing data file c1715.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 7
+Obs: 
+** Processing source fonte$casamentos 1715
+
+WARNING: c1715.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1715 Id: casamentos 1715.
+Near lines: 3 
+Near lines: 4       cas$c1715.1/11/2/1715/igreja matriz/manuel rodrigues (vigario)
+
+6: cas$c1715.1
+36: cas$c1715.2
+73: cas$c1715.3
+106: cas$c1715.4
+155: cas$c1715.5
+189: cas$c1715.5b
+219: cas$c1715.6
+253: cas$c1715.7
+278: cas$c1715.8
+309: cas$c1715.9
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1715.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1715.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1715.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1715.ids
+0  errors. 
+1  warnings.
+Translation finished.

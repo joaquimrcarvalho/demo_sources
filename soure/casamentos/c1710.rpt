@@ -1,0 +1,66 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2053/master) (2022-01-20 14:25:22, MHK: 13/03/2022 09:16 )
+29-3-2022 10-11
+
+Processing data file c1710.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 8
+Obs: 
+** Processing source fonte$casamentos 1710
+
+WARNING: c1710.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1710 Id: casamentos 1710.
+Near lines: 3 
+Near lines: 4       cas$c1710.1/6/1/1710/igreja matriz/manuel rodrigues/obs='a mg: fiz-lhes as bencoes em 19-1-1710
+
+6: cas$c1710.1
+38: cas$c1710.2
+70: cas$c1710.3
+100: cas$c1710.4
+138: cas$c1710.5
+170: cas$c1710.6
+202: cas$c1710.7
+237: cas$c1710.8
+274: cas$c1710.9
+309: cas$c1710.10
+350: cas$c1710.11
+382: cas$c1710.12
+389: cas$c1710.13
+416: cas$c1710.14
+451: cas$c1710.15
+507: cas$c1710.16
+538: cas$c1710.17
+581: cas$c1710.18
+618: cas$c1710.19
+664: cas$c1710.20
+694: cas$c1710.21
+722: cas$c1710.22
+754: cas$c1710.23
+796: cas$c1710.24
+827: cas$c1710.25
+875: cas$c1710.26
+909: cas$c1710.27
+961: cas$c1710.28
+990: cas$c1710.29
+1020: cas$c1710.30
+1066: cas$c1710.31
+1104: cas$c1710.32
+1137: cas$c1710.33
+1165: cas$c1710.34
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1710.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1710.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1710.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1710.ids
+0  errors. 
+1  warnings.
+Translation finished.

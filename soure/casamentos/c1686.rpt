@@ -1,0 +1,43 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2053/master) (2022-01-20 14:25:22, MHK: 13/03/2022 09:16 )
+29-3-2022 10-10
+
+Processing data file c1686.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 5
+Obs: 
+** Processing source fonte$casamentos 1686
+
+WARNING: c1686.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1686 Id: casamentos 1686.
+Near lines: 3 
+Near lines: 4       cas$c1686.1/26/1/1686/?/manuel cordeiro
+
+6: cas$c1686.1
+41: cas$c1686.2
+67: cas$c1686.3
+98: cas$c1686.4
+126: cas$c1686.5
+147: cas$c1686.6
+180: cas$c1686.7
+216: cas$c1686.8
+243: cas$c1686.9
+276: cas$c1686.10
+317: cas$c1686.11
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1686.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1686.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1686.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1686.ids
+0  errors. 
+1  warnings.
+Translation finished.

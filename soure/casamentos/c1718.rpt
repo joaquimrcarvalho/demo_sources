@@ -1,0 +1,60 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-18
+
+Processing data file c1718.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 5
+Obs: 
+** Processing source fonte$casamentos 1718
+
+WARNING: c1718.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1718 Id: casamentos 1718.
+Near lines: 3 
+Near lines: 4       cas$c1718.1/3/1/1718/igreja matriz/manuel rodrigues
+
+6: cas$c1718.1
+37: cas$c1718.2
+66: cas$c1718.3
+98: cas$c1718.4
+126: cas$c1718.5
+167: cas$c1718.6
+201: cas$c1718.7
+239: cas$c1718.8
+269: cas$c1718.9
+298: cas$c1718.10
+331: cas$c1718.11
+359: cas$c1718.12
+387: cas$c1718.13
+424: cas$c1718.14
+458: cas$c1718.15
+497: cas$c1718.16
+535: cas$c1718.17
+575: cas$c1718.18
+605: cas$c1718.19
+640: cas$c1718.20
+676: cas$c1718.21
+706: cas$c1718.22
+736: cas$c1718.23
+765: cas$c1718.24
+795: cas$c1718.25
+824: cas$c1718.26
+860: cas$c1718.27
+900: cas$c1718.28
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1718.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1718.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1718.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1718.ids
+0  errors. 
+1  warnings.
+Translation finished.

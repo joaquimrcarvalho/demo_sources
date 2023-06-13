@@ -1,0 +1,53 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-18
+
+Processing data file c1716.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 8
+Obs: 
+** Processing source fonte$casamentos 1716
+
+WARNING: c1716.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1716 Id: casamentos 1716.
+Near lines: 3 
+Near lines: 4       cas$c1716.1/13/1/1716/ermida do divino espirito santo/manuel rodrigues (vigario)
+
+6: cas$c1716.1
+48: cas$c1716.2
+77: cas$c1716.3
+106: cas$c1716.4
+135: cas$c1716.5
+178: cas$c1716.6
+217: cas$c1716.7
+249: cas$c1716.8
+285: cas$c1716.9
+322: cas$c1716.10
+364: cas$c1716.11
+398: cas$c1716.12
+429: cas$c1716.13
+460: cas$c1716.14
+495: cas$c1716.15
+523: cas$c1716.16
+553: cas$c1716.17
+573: cas$c1716.18
+614: cas$c1716.19
+647: cas$c1716.20
+679: cas$c1716.21
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1716.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1716.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1716.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1716.ids
+0  errors. 
+1  warnings.
+Translation finished.

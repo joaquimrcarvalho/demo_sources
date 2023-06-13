@@ -1,0 +1,77 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-19
+
+Processing data file ob1702.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 10
+Obs: 
+** Processing source fonte$obitos-1702
+
+WARNING: ob1702.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1702 Id: obitos-1702.
+Near lines: 3 
+Near lines: 4       obito$o1702-2664/1/1/1702
+
+6: obito$o1702-2664
+17: obito$o1702-2665
+29: obito$o1702-2666
+40: obito$o1702-2667
+51: obito$o1702-2668
+62: obito$o1702-2669
+76: obito$o1702-2670
+89: obito$o1702-2671
+100: obito$o1702-2672
+112: obito$o1702-2673
+125: obito$o1702-2674
+137: obito$o1702-2675
+148: obito$o1702-2676
+157: obito$o1702-2677
+169: obito$o1702-2678
+180: obito$o1702-2679
+193: obito$o1702-2680
+206: obito$o1702-2681
+217: obito$o1702-2682
+228: obito$o1702-2683
+238: obito$o1702-2684
+248: obito$o1702-2685
+259: obito$o1702-2686
+272: obito$o1702-2687
+285: obito$o1702-2688
+294: obito$o1702-2689
+305: obito$o1702-2690
+315: obito$o1702-2691
+328: obito$o1702-2692
+339: obito$o1702-2693
+351: obito$o1702-2694
+360: obito$o1702-2695
+373: obito$o1702-2696
+382: obito$o1702-2697
+393: obito$o1702-2698
+405: obito$o1702-2699
+417: obito$o1702-2700
+432: obito$o1702-2701
+442: obito$o1702-2702
+452: obito$o1702-2703
+465: obito$o1702-2704
+478: obito$o1702-2705
+489: obito$o1702-2706
+504: obito$o1702-2707
+519: obito$o1702-2708
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1702.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1702.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1702.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1702.ids
+0  errors. 
+1  warnings.
+Translation finished.

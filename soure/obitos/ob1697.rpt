@@ -1,0 +1,105 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-19
+
+Processing data file ob1697.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 12
+Obs: 
+** Processing source fonte$obitos 1697
+
+WARNING: ob1697.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1697 Id: obitos 1697.
+Near lines: 3 
+Near lines: 4       obito$o1697-2338/20/1/1697
+
+6: obito$o1697-2338
+16: obito$o1697-2339
+27: obito$o1697-2340
+34: obito$o1697-2341
+45: obito$o1697-2342
+55: obito$o1697-2343
+64: obito$o1697-2344
+75: obito$o1697-2345
+86: obito$o1697-2346
+97: obito$o1697-2347
+108: obito$o1697-2348
+120: obito$o1697-2349
+133: obito$o1697-2350
+146: obito$o1697-2351
+159: obito$o1697-2352
+172: obito$o1697-2353
+180: obito$o1697-2354
+191: obito$o1697-2355
+201: obito$o1697-2356
+212: obito$o1697-2357
+224: obito$o1697-2358
+235: obito$o1697-2359
+246: obito$o1697-2360
+255: obito$o1697-2361
+268: obito$o1697-2362
+279: obito$o1697-2363
+290: obito$o1697-2364
+303: obito$o1697-2365
+316: obito$o1697-2366
+326: obito$o1697-2367
+337: obito$o1697-2368
+348: obito$o1697-2369
+358: obito$o1697-2370
+369: obito$o1697-2371
+380: obito$o1697-2372
+389: obito$o1697-2373
+400: obito$o1697-2374
+412: obito$o1697-2375
+420: obito$o1697-2376
+429: obito$o1697-2377
+437: obito$o1697-2378
+446: obito$o1697-2379
+456: obito$o1697-2380
+465: obito$o1697-2381
+478: obito$o1697-2382
+489: obito$o1697-2383
+501: obito$o1697-2384
+512: obito$o1697-2385
+523: obito$o1697-2386
+534: obito$o1697-2387
+546: obito$o1697-2388
+557: obito$o1697-2389
+569: obito$o1697-2390
+580: obito$o1697-2391
+591: obito$o1697-2392
+603: obito$o1697-2393
+614: obito$o1697-2394
+628: obito$o1697-2395
+639: obito$o1697-2396
+650: obito$o1697-2397
+660: obito$o1697-2398
+673: obito$o1697-2399
+682: obito$o1697-2400
+692: obito$o1697-2401
+703: obito$o1697-2402
+713: obito$o1697-2403
+725: obito$o1697-2404
+738: obito$o1697-2405
+750: obito$o1697-2406
+759: obito$o1697-2407
+768: obito$o1697-2408
+781: obito$o1697-2409
+790: obito$o1697-2410
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1697.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1697.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1697.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1697.ids
+0  errors. 
+1  warnings.
+Translation finished.

@@ -1,0 +1,57 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2053/master) (2022-01-20 14:25:22, MHK: 13/03/2022 09:16 )
+29-3-2022 10-11
+
+Processing data file c1701.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 11
+Obs: 
+** Processing source fonte$casamentos 1701
+
+WARNING: c1701.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1701 Id: casamentos 1701.
+Near lines: 3 
+Near lines: 4       cas$c1701-184/24/1/1701/igreja matriz/luis alvares pinto
+
+6: cas$c1701-184
+31: cas$c1701-185
+61: cas$c1701-186
+92: cas$c1701-187
+119: cas$c1701-188
+147: cas$c1701-189
+174: cas$c1701-190
+202: cas$c1701-191
+228: cas$c1701-192
+257: cas$c1701-193
+280: cas$c1701-194
+305: cas$c1701-195
+331: cas$c1701-196
+363: cas$c1701-197
+388: cas$c1701-198
+410: cas$c1701-199
+440: cas$c1701-200
+465: cas$c1701-201
+492: cas$c1701-202
+521: cas$c1701-203
+546: cas$c1701-204
+572: cas$c1701-205
+600: cas$c1701-208
+631: cas$c1701-206
+662: cas$c1701-207
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1701.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1701.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1701.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1701.ids
+0  errors. 
+1  warnings.
+Translation finished.

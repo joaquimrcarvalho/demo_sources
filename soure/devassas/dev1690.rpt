@@ -1,0 +1,33 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-18
+
+Processing data file dev1690.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 17
+Obs: 
+** Processing source fonte$visita1690
+
+WARNING: dev1690.cli line 3 * Warning: Filename should match source Id to avoid errors. File: dev1690 Id: visita1690.
+Near lines: 3 
+Near lines: 4       devassa$dev1690/7/9/1690/fol=?/visdor=luis alves pinto/obs=luis alves pinto%o visitador assina a sua propria residencia#o visitador e o paroco sao a mesma pessoa
+
+6: devassa$dev1690
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/devassas/dev1690.cli
+** Original file- /kleio-home/sources/demo_sources/soure/devassas/dev1690.org
+** Previous version- /kleio-home/sources/demo_sources/soure/devassas/dev1690.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/devassas/dev1690.ids
+0  errors. 
+1  warnings.
+Translation finished.

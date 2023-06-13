@@ -1,0 +1,46 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-17
+
+Processing data file c1691.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 16
+Obs: 
+** Processing source fonte$casamentos 1691
+
+WARNING: c1691.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1691 Id: casamentos 1691.
+Near lines: 3 
+Near lines: 4       cas$c1691.1/14/1/1691/igreja matriz/luis alvares pinto
+
+6: cas$c1691.1
+28: cas$c1691.2
+49: cas$c1691.3
+75: cas$c1691.4
+97: cas$c1691.5
+120: cas$c1691.6
+141: cas$c1691.7
+162: cas$c1691.8
+187: cas$c1691.9
+211: cas$c1691.10
+236: cas$c1691.11
+258: cas$c1691.12
+280: cas$c1691.13
+303: cas$c1691.14
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1691.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1691.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1691.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1691.ids
+0  errors. 
+1  warnings.
+Translation finished.

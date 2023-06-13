@@ -1,0 +1,73 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-17
+
+Processing data file c1693.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 9
+Obs: 
+** Processing source fonte$casamentos 1693
+
+WARNING: c1693.cli line 3 * Warning: Filename should match source Id to avoid errors. File: c1693 Id: casamentos 1693.
+Near lines: 3 
+Near lines: 4       cas$c1693.1/7/1/1693/igreja matriz/luis alvares pinto
+
+6: cas$c1693.1
+31: cas$c1693.2
+54: cas$c1693.3
+79: cas$c1693.4
+101: cas$c1693.5
+127: cas$c1693.6
+154: cas$c1693.7
+180: cas$c1693.8
+203: cas$c1693.9
+228: cas$c1693.10
+255: cas$c1693.11
+278: cas$c1693.12
+302: cas$c1693.13
+329: cas$c1693.14
+351: cas$c1693.15
+374: cas$c1693.16
+396: cas$c1693.17
+420: cas$c1693.18
+445: cas$c1693.19
+474: cas$c1693.20
+500: cas$c1693.21
+526: cas$c1693.22
+550: cas$c1693.23
+576: cas$c1693.24
+602: cas$c1693.25
+629: cas$c1693.26
+654: cas$c1693.27
+686: cas$c1693.28
+709: cas$c1693.29
+734: cas$c1693.30
+761: cas$c1693.31
+783: cas$c1693.32
+806: cas$c1693.33
+828: cas$c1693.34
+850: cas$c1693.35
+872: cas$c1693.36
+895: cas$c1693.37
+919: cas$c1693.38
+941: cas$c1693.39
+964: cas$c1693.40
+987: cas$c1693.41
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/casamentos/c1693.cli
+** Original file- /kleio-home/sources/demo_sources/soure/casamentos/c1693.org
+** Previous version- /kleio-home/sources/demo_sources/soure/casamentos/c1693.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/casamentos/c1693.ids
+0  errors. 
+1  warnings.
+Translation finished.

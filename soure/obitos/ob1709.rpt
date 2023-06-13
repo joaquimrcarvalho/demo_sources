@@ -1,0 +1,82 @@
+KleioTranslator - server version 10.14 - build 414 (MHK: 2056/master) (2021-10-09 20:15:18, MHK: 29/03/2022 18:13 )
+29-3-2022 10-20
+
+Processing data file ob1709.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 10
+Obs: 
+** Processing source fonte$obitos-1709
+
+WARNING: ob1709.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1709 Id: obitos-1709.
+Near lines: 3 
+Near lines: 4       obito$o1709-3166/8/1/1709/obs=agora referem sempre se morreram abintestados Possivel mutacao legislativa
+
+6: obito$o1709-3166
+20: obito$o1709-3167
+33: obito$o1709-3168
+46: obito$o1709-3169
+59: obito$o1709-3170
+69: obito$o1709-3171
+83: obito$o1709-3172
+94: obito$o1709-3173
+109: obito$o1709-3174
+124: obito$o1709-3175
+138: obito$o1709-3176
+149: obito$o1709-3177
+162: obito$o1709-3178
+176: obito$o1709-3179
+189: obito$o1709-3180
+205: obito$o1709-3181
+218: obito$o1709-3182
+232: obito$o1709-3183
+243: obito$o1709-3184
+257: obito$o1709-3185
+268: obito$o1709-3186
+282: obito$o1709-3187
+295: obito$o1709-3188
+308: obito$o1709-3189
+322: obito$o1709-3190
+333: obito$o1709-3191
+347: obito$o1709-3192
+363: obito$o1709-3193
+378: obito$o1709-3194
+387: obito$o1709-3195
+400: obito$o1709-3196
+415: obito$o1709-3197
+428: obito$o1709-3198
+441: obito$o1709-3199
+453: obito$o1709-3200
+464: obito$o1709-3201
+475: obito$o1709-3202
+491: obito$o1709-3203
+507: obito$o1709-3204
+519: obito$o1709-3205
+532: obito$o1709-3206
+545: obito$o1709-3207
+557: obito$o1709-3208
+571: obito$o1709-3209
+583: obito$o1709-3210
+596: obito$o1709-3211
+608: obito$o1709-3212
+619: obito$o1709-3213
+631: obito$o1709-3214
+644: obito$o1709-3215
+*** End of File
+
+
+** Processed file- /kleio-home/sources/demo_sources/soure/obitos/ob1709.cli
+** Original file- /kleio-home/sources/demo_sources/soure/obitos/ob1709.org
+** Previous version- /kleio-home/sources/demo_sources/soure/obitos/ob1709.old
+** Temp file with ids- /kleio-home/sources/demo_sources/soure/obitos/ob1709.ids
+0  errors. 
+1  warnings.
+Translation finished.
